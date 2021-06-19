@@ -1,0 +1,367 @@
+[
+    {
+        "id": 1,
+        "provincia": "AZUAY",
+        "cantones": [
+            "CUENCA",
+            "GIRÓN",
+            "GUALACEO",
+            "NABÓN",
+            "PAUTE",
+            "PUCARA",
+            "SAN FERNANDO",
+            "SANTA ISABEL",
+            "SIGSIG",
+            "OÑA",
+            "CHORDELEG",
+            "EL PAN",
+            "SEVILLA DE ORO",
+            "GUACHAPALA",
+            "CAMILO PONCE ENRÍQUEZ"
+        ]
+    },
+    {
+        "id": 2,
+        "provincia": "BOLIVAR",
+        "cantones": [
+            "GUARANDA",
+            "CHILLANES",
+            "CHIMBO",
+            "ECHEANDÍA",
+            "SAN MIGUEL",
+            "CALUMA",
+            "LAS NAVES"
+        ]
+    },
+    {
+        "id": 3,
+        "provincia": "CAÑAR",
+        "cantones": [
+            "AZOGUES",
+            "BIBLIÁN",
+            "CAÑAR",
+            "LA TRONCAL",
+            "EL TAMBO",
+            "DÉLEG",
+            "SUSCAL"
+        ]
+    },
+    {
+        "id": 4,
+        "provincia": "CARCHI",
+        "cantones": [
+            "TULCÁN",
+            "BOLÍVAR",
+            "ESPEJO",
+            "MIRA",
+            "MONTÚFAR",
+            "SAN PEDRO DE HUACA"
+        ]
+    },
+    {
+        "id": 5,
+        "provincia": "COTOPAXI",
+        "cantones": [
+            "LATACUNGA",
+            "LA MANÁ",
+            "PANGUA",
+            "PUJILI",
+            "SALCEDO",
+            "SAQUISILÍ",
+            "SIGCHOS"
+        ]
+    },
+    {
+        "id": 6,
+        "provincia": "CHIMBORAZO",
+        "cantones": [
+            "RIOBAMBA",
+            "ALAUSI",
+            "COLTA",
+            "CHAMBO",
+            "CHUNCHI",
+            "GUAMOTE",
+            "GUANO",
+            "PALLATANGA",
+            "PENIPE",
+            "CUMANDÁ"
+        ]
+    },
+    {
+        "id": 7,
+        "provincia": "EL ORO",
+        "cantones": [
+            "MACHALA",
+            "ARENILLAS",
+            "ATAHUALPA",
+            "BALSAS",
+            "CHILLA",
+            "EL GUABO",
+            "HUAQUILLAS",
+            "MARCABELÍ",
+            "PASAJE",
+            "PIÑAS",
+            "PORTOVELO",
+            "SANTA ROSA",
+            "ZARUMA",
+            "LAS LAJAS"
+        ]
+    },
+    {
+        "id": 8,
+        "provincia": "ESMERALDAS",
+        "cantones": [
+            "ESMERALDAS",
+            "ELOY ALFARO",
+            "MUISNE",
+            "QUININDÉ",
+            "SAN LORENZO",
+            "ATACAMES",
+            "RIOVERDE",
+            "LA CONCORDIA"
+        ]
+    },
+    {
+        "id": 9,
+        "provincia": "GUAYAS",
+        "cantones": [
+            "GUAYAQUIL",
+            "ALFREDO BAQUERIZO MORENO (JUJÁN)",
+            "BALAO",
+            "BALZAR",
+            "COLIMES",
+            "DAULE",
+            "DURÁN",
+            "EL EMPALME",
+            "EL TRIUNFO",
+            "MILAGRO",
+            "NARANJAL",
+            "NARANJITO",
+            "PALESTINA",
+            "PEDRO CARBO",
+            "SAMBORONDÓN",
+            "SANTA LUCÍA",
+            "SALITRE (URBINA JADO)",
+            "SAN JACINTO DE YAGUACHI",
+            "PLAYAS",
+            "SIMÓN BOLÍVAR",
+            "CORONEL MARCELINO MARIDUEÑA",
+            "LOMAS DE SARGENTILLO",
+            "NOBOL",
+            "GENERAL ANTONIO ELIZALDE",
+            "ISIDRO AYORA"
+        ]
+    },
+    {
+        "id": 10,
+        "provincia": "IMBABURA",
+        "cantones": [
+            "IBARRA",
+            "ANTONIO ANTE",
+            "COTACACHI",
+            "OTAVALO",
+            "PIMAMPIRO",
+            "SAN MIGUEL DE URCUQUÍ"
+        ]
+    },
+    {
+        "id": 11,
+        "provincia": "LOJA",
+        "cantones": [
+            "LOJA",
+            "CALVAS",
+            "CATAMAYO",
+            "CELICA",
+            "CHAGUARPAMBA",
+            "ESPÍNDOLA",
+            "GONZANAMÁ",
+            "MACARÁ",
+            "PALTAS",
+            "PUYANGO",
+            "SARAGURO",
+            "SOZORANGA",
+            "ZAPOTILLO",
+            "PINDAL",
+            "QUILANGA",
+            "OLMEDO"
+        ]
+    },
+    {
+        "id": 12,
+        "provincia": "LOS RIOS",
+        "cantones": [
+            "BABAHOYO",
+            "BABA",
+            "MONTALVO",
+            "PUEBLOVIEJO",
+            "QUEVEDO",
+            "URDANETA",
+            "VENTANAS",
+            "VÍNCES",
+            "PALENQUE",
+            "BUENA FÉ",
+            "VALENCIA",
+            "MOCACHE",
+            "QUINSALOMA"
+        ]
+    },
+    {
+        "id": 13,
+        "provincia": "MANABI",
+        "cantones": [
+            "PORTOVIEJO",
+            "BOLÍVAR",
+            "CHONE",
+            "EL CARMEN",
+            "FLAVIO ALFARO",
+            "JIPIJAPA",
+            "JUNÍN",
+            "MANTA",
+            "MONTECRISTI",
+            "PAJÁN",
+            "PICHINCHA",
+            "ROCAFUERTE",
+            "SANTA ANA",
+            "SUCRE",
+            "TOSAGUA",
+            "24 DE MAYO",
+            "PEDERNALES",
+            "OLMEDO",
+            "PUERTO LÓPEZ",
+            "JAMA",
+            "JARAMIJÓ",
+            "SAN VICENTE"
+        ]
+    },
+    {
+        "id": 14,
+        "provincia": "MORONA SANTIAGO",
+        "cantones": [
+            "MORONA",
+            "GUALAQUIZA",
+            "LIMÓN INDANZA",
+            "PALORA",
+            "SANTIAGO",
+            "SUCÚA",
+            "HUAMBOYA",
+            "SAN JUAN BOSCO",
+            "TAISHA",
+            "LOGROÑO",
+            "PABLO SEXTO",
+            "TIWINTZA"
+        ]
+    },
+    {
+        "id": 15,
+        "provincia": "NAPO",
+        "cantones": [
+            "TENA",
+            "ARCHIDONA",
+            "EL CHACO",
+            "QUIJOS",
+            "CARLOS JULIO AROSEMENA TOLA"
+        ]
+    },
+    {
+        "id": 16,
+        "provincia": "PASTAZA",
+        "cantones": [
+            "PASTAZA",
+            "MERA",
+            "SANTA CLARA",
+            "ARAJUNO"
+        ]
+    },
+    {
+        "id": 17,
+        "provincia": "PICHINCHA",
+        "cantones": [
+            "QUITO",
+            "CAYAMBE",
+            "MEJIA",
+            "PEDRO MONCAYO",
+            "RUMIÑAHUI",
+            "SAN MIGUEL DE LOS BANCOS",
+            "PEDRO VICENTE MALDONADO",
+            "PUERTO QUITO"
+        ]
+    },
+    {
+        "id": 18,
+        "provincia": "TUNGURAHUA",
+        "cantones": [
+            "AMBATO",
+            "BAÑOS DE AGUA SANTA",
+            "CEVALLOS",
+            "MOCHA",
+            "PATATE",
+            "QUERO",
+            "SAN PEDRO DE PELILEO",
+            "SANTIAGO DE PÍLLARO",
+            "TISALEO"
+        ]
+    },
+    {
+        "id": 19,
+        "provincia": "ZAMORA CHINCHIPE",
+        "cantones": [
+            "ZAMORA",
+            "CHINCHIPE",
+            "NANGARITZA",
+            "YACUAMBI",
+            "YANTZAZA (YANZATZA)",
+            "EL PANGUI",
+            "CENTINELA DEL CÓNDOR",
+            "PALANDA",
+            "PAQUISHA"
+        ]
+    },
+    {
+        "id": 20,
+        "provincia": "GALAPAGOS",
+        "cantones": [
+            "SAN CRISTÓBAL",
+            "ISABELA",
+            "SANTA CRUZ"
+        ]
+    },
+    {
+        "id": 21,
+        "provincia": "SUCUMBIOS",
+        "cantones": [
+            "LAGO AGRIO",
+            "GONZALO PIZARRO",
+            "PUTUMAYO",
+            "SHUSHUFINDI",
+            "SUCUMBÍOS",
+            "CASCALES",
+            "CUYABENO"
+        ]
+    },
+    {
+        "id": 22,
+        "provincia": "ORELLANA",
+        "cantones": [
+            "ORELLANA",
+            "AGUARICO",
+            "LA JOYA DE LOS SACHAS",
+            "LORETO"
+        ]
+    },
+    {
+        "id": 23,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "cantones": [
+            "SANTO DOMINGO"
+        ]
+    },
+    {
+        "id": 24,
+        "provincia": "SANTA ELENA",
+        "cantones": [
+            "SANTA ELENA",
+            "LA LIBERTAD",
+            "SALINAS"
+        ]
+    }
+]
